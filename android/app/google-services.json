@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17364167914",
+    "project_id": "soxial-5853b",
+    "storage_bucket": "soxial-5853b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17364167914:android:935b2ad9922c6b5f20bb93",
+        "android_client_info": {
+          "package_name": "com.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17364167914-ci95peo45ebcd7r7g3afcjov4j4fg3um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt1_7ad_sU1r4y5NxuLmioNPgTzMWloO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17364167914-ci95peo45ebcd7r7g3afcjov4j4fg3um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
